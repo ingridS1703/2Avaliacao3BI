@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 5ded972194253104fa43805b082b61d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8767139944548148514
+    second: spritesSoldado_PNG - Copia_0
+  - first:
+      213: 9056086603139889288
+    second: spritesSoldado_PNG - Copia_1
+  - first:
+      213: -4059230577760867425
+    second: spritesSoldado_PNG - Copia_2
+  - first:
+      213: 64843758440184454
+    second: spritesSoldado_PNG - Copia_3
+  - first:
+      213: 3853930791703984186
+    second: spritesSoldado_PNG - Copia_4
+  - first:
+      213: 4878773086732836082
+    second: spritesSoldado_PNG - Copia_5
+  - first:
+      213: -635911036030154313
+    second: spritesSoldado_PNG - Copia_6
+  - first:
+      213: -4251713393287038812
+    second: spritesSoldado_PNG - Copia_7
+  - first:
+      213: -4834939512973429041
+    second: spritesSoldado_PNG - Copia_8
+  - first:
+      213: -5849909862492897155
+    second: spritesSoldado_PNG - Copia_9
+  - first:
+      213: -5168067317346109339
+    second: spritesSoldado_PNG - Copia_10
+  - first:
+      213: -1719161090677665657
+    second: spritesSoldado_PNG - Copia_11
+  - first:
+      213: 3091644999398971473
+    second: spritesSoldado_PNG - Copia_12
+  - first:
+      213: -6676176162023561923
+    second: spritesSoldado_PNG - Copia_13
+  - first:
+      213: -2269349861968535948
+    second: spritesSoldado_PNG - Copia_14
+  - first:
+      213: -3481015052438894003
+    second: spritesSoldado_PNG - Copia_15
+  - first:
+      213: 1080070841484475704
+    second: spritesSoldado_PNG - Copia_16
+  - first:
+      213: 5084744145586473647
+    second: spritesSoldado_PNG - Copia_17
+  - first:
+      213: 672281026761100126
+    second: spritesSoldado_PNG - Copia_18
+  - first:
+      213: 7209268500732154807
+    second: spritesSoldado_PNG - Copia_19
+  - first:
+      213: -7303815301576433923
+    second: spritesSoldado_PNG - Copia_20
+  - first:
+      213: 8479544565050832226
+    second: spritesSoldado_PNG - Copia_21
+  - first:
+      213: -6756647266888302802
+    second: spritesSoldado_PNG - Copia_22
+  - first:
+      213: 4636116256562909736
+    second: spritesSoldado_PNG - Copia_23
+  - first:
+      213: -4457609420839679762
+    second: spritesSoldado_PNG - Copia_24
+  - first:
+      213: -4698490202238631374
+    second: spritesSoldado_PNG - Copia_25
+  - first:
+      213: 5369921298475372331
+    second: spritesSoldado_PNG - Copia_26
+  - first:
+      213: -8701188125908092640
+    second: spritesSoldado_PNG - Copia_27
+  - first:
+      213: 2918998050465410081
+    second: spritesSoldado_PNG - Copia_28
+  - first:
+      213: 5476005536068100153
+    second: spritesSoldado_PNG - Copia_29
+  - first:
+      213: 2768173786395259099
+    second: spritesSoldado_PNG - Copia_30
+  - first:
+      213: 7688250139456563200
+    second: spritesSoldado_PNG - Copia_31
+  - first:
+      213: -4040969807131349004
+    second: spritesSoldado_PNG - Copia_32
+  - first:
+      213: -4149786839310891451
+    second: spritesSoldado_PNG - Copia_33
+  - first:
+      213: -1236582654024146704
+    second: spritesSoldado_PNG - Copia_34
+  - first:
+      213: 449295225339410289
+    second: spritesSoldado_PNG - Copia_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 297
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad115bbacd45680800000000000000
+      internalID: -8767139944548148514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 297
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b35bc8ceadad70800000000000000
+      internalID: 9056086603139889288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 292
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be827db47baa7c0800000000000000
+      internalID: -4059230577760867425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 293
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7ab30e0f56e000800000000000000
+      internalID: 64843758440184454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 293
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38b474d2a9eb7530800000000000000
+      internalID: 3853930791703984186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 76
+        width: 205
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc52760642e4b340800000000000000
+      internalID: 4878773086732836082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 229
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90cac284acc27f0800000000000000
+      internalID: -635911036030154313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 229
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fa520231eef4c0800000000000000
+      internalID: -4251713393287038812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 229
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f7ba2128d6ecb0800000000000000
+      internalID: -4834939512973429041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 229
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d708e0669f1f0dea0800000000000000
+      internalID: -5849909862492897155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 229
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568774e08265748b0800000000000000
+      internalID: -5168067317346109339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801c76b8105428e0800000000000000
+      internalID: -1719161090677665657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 155
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d9c82fbab7ea20800000000000000
+      internalID: 3091644999398971473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 155
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35a7ac07257953a0800000000000000
+      internalID: -6676176162023561923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9846f256a180e0800000000000000
+      internalID: -2269349861968535948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a8795c043f0bfc0800000000000000
+      internalID: -3481015052438894003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d70f635be2dfe00800000000000000
+      internalID: 1080070841484475704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faacd6b3cd3a09640800000000000000
+      internalID: 5084744145586473647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b845d280c645900800000000000000
+      internalID: 672281026761100126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 76
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39d8c41877c0460800000000000000
+      internalID: 7209268500732154807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 76
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe59743ea2a3aa90800000000000000
+      internalID: -7303815301576433923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 76
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265f2f8fad46da570800000000000000
+      internalID: 8479544565050832226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 77
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f3288eb119b32a0800000000000000
+      internalID: -6756647266888302802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 76
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82298d11c2bc65040800000000000000
+      internalID: 4636116256562909736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88a6369d36322c0800000000000000
+      internalID: -4457609420839679762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c9e20e0c9bceb0800000000000000
+      internalID: -4698490202238631374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fcd6b48fac58a40800000000000000
+      internalID: 5369921298475372331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b667108b2f3780800000000000000
+      internalID: -8701188125908092640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6c0ae24d528820800000000000000
+      internalID: 2918998050465410081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930696d950eaefb40800000000000000
+      internalID: 5476005536068100153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 10
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd033ae64678a6620800000000000000
+      internalID: 2768173786395259099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008e7aa84c622ba60800000000000000
+      internalID: 7688250139456563200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff6bd1de579be7c0800000000000000
+      internalID: -4040969807131349004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_33
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 9
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546884d2bdef866c0800000000000000
+      internalID: -4149786839310891451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02b7bb0a6c6dee0800000000000000
+      internalID: -1236582654024146704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesSoldado_PNG - Copia_35
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 9
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17772a180a73c3600800000000000000
+      internalID: 449295225339410289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
