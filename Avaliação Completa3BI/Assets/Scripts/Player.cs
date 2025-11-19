@@ -11,7 +11,7 @@ public class Player : Personagem
     
     void Start()
     {
-        SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
     }
 
@@ -21,7 +21,7 @@ public class Player : Personagem
     {
         andando = false;
 
-        if (arma.rotation.eulerAngles.z > +90 && arma.rotation.eulerAngles.z < 90)
+        if (arma.rotation.eulerAngles.z > -90 && arma.rotation.eulerAngles.z < 90)
         {
             spriteRenderer.flipX = false;
         }
@@ -55,7 +55,7 @@ public class Player : Personagem
             andando = true;
         }
         
-        animator.SetBool("andando", andando);
+        animator.SetBool("Andando", andando);
         
         
         
